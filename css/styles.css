@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.verde{
+    background-color: aquamarine;
+}
+
+.magenta{
+    background-color: magenta;
+    padding: 5px;
+}
+.alturaslider{
+    height: 500px;
+}
+.alturasection{
+    height: 200px;
+}
